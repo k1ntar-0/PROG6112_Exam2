@@ -1,0 +1,17 @@
+DATA LOG
+====================
+Year 1:
+  Microphone: 300 (Under Limit)
+  Speaker: 150 (Under Limit)
+  Mixing Desk: 700 (Over Limit)
+
+Year 2:
+  Microphone: 250 (Under Limit)
+  Speaker: 200 (Under Limit)
+  Mixing Desk: 600 (Over Limit)
+
+====================
+Total Sales: 2200
+Average Sales: 367
+Sales over limit: 2
+Sales under limit: 4
